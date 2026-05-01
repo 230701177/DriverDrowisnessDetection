@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+Data/
+dataset/
+processed_dataset/
+processed_dataset1/
+*.npy
+*.pkl
